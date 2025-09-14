@@ -27,6 +27,7 @@ export const Navbar = () => {
         whileTap={{ scale: 0.95 }}
       >
         <img src="/mine.jpeg" alt="Profile" className="mine" />
+        <img></img>
         Naresh Baral
       </motion.div>
       <motion.ul 
