@@ -38,7 +38,7 @@ export const Navbar = () => {
         whileHover={{scale:1.1}}
         whileTab={{scale:0.95}}
         >
-          <a>Home</a>
+          <a href="#hero">Home</a>
         </motion.li>
 
         <motion.li 
