@@ -120,7 +120,7 @@ list-style:none;
   var(--gradient-end)100%);
 
 display : flex;
-align-item:center;
+align-items:center;
 padding:0 5%;
 position: relation;
 overflow: hidden;
